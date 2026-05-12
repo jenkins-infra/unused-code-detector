@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This repository is archived and not used anymore. See https://github.com/jenkins-infra/helpdesk/issues/5098 for details.
+
 **Finds and reports unused code in Jenkins api** (including in latest published plugins and potential usage in jelly files, except getters, setters and fields, except deprecated classes and methods, except unit tests)
 
 [![Build Status](https://ci.jenkins-ci.org/buildStatus/icon?job=Reporting/infra_deprecated-usage-in-plugins)](https://ci.jenkins-ci.org/view/All/job/Reporting/job/infra_unused-code-detector/)
